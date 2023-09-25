@@ -1,3 +1,5 @@
+# Spam
+
 technologynewsai.online
 cryptofinex.xyz
 zanyatiya-tennisom-msk.ru
@@ -205,3 +207,7 @@ snaplove.site
 medicina-ucr.com
 bobpoynterford.biz
 ansonin.us
+
+# Malicious
+
+futureonline.store
