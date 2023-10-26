@@ -344,6 +344,37 @@ glory-casino2.funx
 glory-casino1.websitex
 glory-casino1.xyzx
 glory-casino1.spacex
+aviator-find.sitex
+bagat-1.store
+glory-casino1.funx
+bagat-3.store
+aviator-find.spacex
+bagat-1.ru
+aviator-find.funx
+bagat-2.ru
+glory-casino1.pressx
+bagat-4.ru
+car-museum.ru
+aviator-link.storex
+aviator-link.pressx
+aviator-link.pwx
+aviator-link.infox
+aviator-link.onlinex
+telegra.ph
+yandex.com
+t.me
+aviator-link.websitex
+aviator-link.xyzx
+aviator-link.shopx
+aviator-link.funx
+aviator-link.prox
+rambler.ru
+gdekomfort.ru
+amadey-sirop.ru
+bk.ru
+aviaperevozki77.rux
+m142.ru
+www.aviaperevozki77.ru
 
 # Malicious
 
